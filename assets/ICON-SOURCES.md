@@ -4,4 +4,4 @@ Claude, Gemini, OpenCode, and Cursor SVG paths come from [Simple Icons](https://
 
 Service marks in `src/server-marks.json` are bundled from Simple Icons 16.32.0 (CC0). Name matching is a display hint, not verified service identity. Unknown MCPs use a locally drawn neutral connector SVG. No remote logo requests are made.
 
-The MCP connector is locally drawn. `mcp.svg` is a transparent, monochrome icon for BB’s SVG mask. `logo.svg` is the full-color README artwork; its background must not be used in the sidebar mask.
+The MCP connector and the Pi π mark are locally drawn. `mcp.svg` is a transparent, monochrome icon for BB’s SVG mask. `logo.svg` is the full-color README artwork; its background must not be used in the sidebar mask.
